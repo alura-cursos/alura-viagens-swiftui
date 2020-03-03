@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		033D9EE223FC359900540AFE /* CelulaViagemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033D9EE123FC359900540AFE /* CelulaViagemView.swift */; };
+		03496B9E23FCD40D00E5AC0B /* MapaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03496B9D23FCD40D00E5AC0B /* MapaView.swift */; };
 		03833C5123E8544B003DEF66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03833C5023E8544B003DEF66 /* AppDelegate.swift */; };
 		03833C5323E8544B003DEF66 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03833C5223E8544B003DEF66 /* SceneDelegate.swift */; };
 		03833C5523E8544B003DEF66 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03833C5423E8544B003DEF66 /* ContentView.swift */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		033D9EE123FC359900540AFE /* CelulaViagemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelulaViagemView.swift; sourceTree = "<group>"; };
+		03496B9D23FCD40D00E5AC0B /* MapaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapaView.swift; sourceTree = "<group>"; };
 		03833C4D23E8544B003DEF66 /* alura-viagens.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "alura-viagens.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		03833C5023E8544B003DEF66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03833C5223E8544B003DEF66 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				03833C5423E8544B003DEF66 /* ContentView.swift */,
 				03D805A223F3A56D00CC9E79 /* HeaderView.swift */,
 				033D9EE123FC359900540AFE /* CelulaViagemView.swift */,
+				03496B9D23FCD40D00E5AC0B /* MapaView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				03833C5123E8544B003DEF66 /* AppDelegate.swift in Sources */,
 				03D805A323F3A56D00CC9E79 /* HeaderView.swift in Sources */,
 				03D8059C23F395FA00CC9E79 /* Dados.swift in Sources */,
+				03496B9E23FCD40D00E5AC0B /* MapaView.swift in Sources */,
 				033D9EE223FC359900540AFE /* CelulaViagemView.swift in Sources */,
 				03833C5323E8544B003DEF66 /* SceneDelegate.swift in Sources */,
 				03833C5523E8544B003DEF66 /* ContentView.swift in Sources */,
