@@ -2,30 +2,46 @@
     {
         "id": 1,
         "titulo": "Rio de Janeiro",
-        "imagem": "img1.png",
+        "imagem": "img1",
         "quantidadeDeDias": "6 dias",
-        "valor": "1.200,00"
+        "valor": "1.200,00",
+        "coordenada": {
+            "longitude": -43.2096,
+            "latitude": -22.9035
+        }
     },
     {
         "id": 2,
         "titulo": "Ceará",
-        "imagem": "img2.jpg",
+        "imagem": "img2",
         "quantidadeDeDias": "6 dias",
-        "valor": "1.200,00"
+        "valor": "1.200,00",
+        "coordenada": {
+            "longitude": -38.5434,
+            "latitude": -3.71839
+        }
     },
     {
         "id": 3,
         "titulo": "Atibaia - São Paulo",
-        "imagem": "img3.jpg",
+        "imagem": "img3",
         "quantidadeDeDias": "6 dias",
-        "valor": "1.200,00"
+        "valor": "1.200,00",
+        "coordenada": {
+            "longitude": -46.5502,
+            "latitude": -23.1171
+        }
     },
     {
         "id": 4,
-        "titulo": "Rio de Janeiro",
-        "imagem": "img4.jpg",
+        "titulo": "Paraíba",
+        "imagem": "img4",
         "quantidadeDeDias": "6 dias",
-        "valor": "1.200,00"
+        "valor": "1.200,00",
+        "coordenada": {
+            "longitude": -34.861,
+            "latitude": -7.11532
+        }
     }
 ]
 
