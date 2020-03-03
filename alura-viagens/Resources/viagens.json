@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "titulo": "Rio de Janeiro",
+        "imagem": "img1.png",
+        "quantidadeDeDias": "6 dias",
+        "valor": "1.200,00"
+    },
+    {
+        "id": 2,
+        "titulo": "Ceará",
+        "imagem": "img2.jpg",
+        "quantidadeDeDias": "6 dias",
+        "valor": "1.200,00"
+    },
+    {
+        "id": 3,
+        "titulo": "Atibaia - São Paulo",
+        "imagem": "img3.jpg",
+        "quantidadeDeDias": "6 dias",
+        "valor": "1.200,00"
+    },
+    {
+        "id": 4,
+        "titulo": "Rio de Janeiro",
+        "imagem": "img4.jpg",
+        "quantidadeDeDias": "6 dias",
+        "valor": "1.200,00"
+    }
+]
+
