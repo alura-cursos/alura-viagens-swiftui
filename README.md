@@ -2,7 +2,7 @@
 
 # Alura Viagens
 
-A Alura Viagens é a simulação de um aplicativo de viagens para o sistema operacional iOS, utilizando a linguagem Swift e o framework SwiftUI, lançado pela Apple em 2019.
+A Alura Viagens é a simulação de um aplicativo de viagens para o sistema operacional iOS que utiliza a linguagem Swift e o framework SwiftUI, lançado pela Apple em 2019.
 
 ## 🔨 Funcionalidades do projeto
 
@@ -31,7 +31,7 @@ Você pode [baixar o zip](https://github.com/alura-cursos/alura-viagens-swiftui/
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Para executar este projeto você precisa:**
+**Para executar este projeto, você precisa:**
 
 - Ter um macOS rodando em sua máquina.
 - Ter a IDE XCode instalada em sua máquina. Você pode baixar pela App Store ou no [site para desenvolvedores](https://developer.apple.com/download/all/) da Apple.
